@@ -1,0 +1,3 @@
+Natural LD blocks in human populations identified from "Approximately
+independent linkage disequilibrium blocks in human populations". This
+information is useful for clumping, colocalization, and finemapping. It is used by the map_variants_to_regions function in the gwasglue package in R.
